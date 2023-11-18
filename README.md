@@ -29,3 +29,5 @@ pip install followed by dependency name
    ```bash
    git clone https://github.com/vicparramain/master_file_validator.git
    cd master_file_validator
+
+## Binary available

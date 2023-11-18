@@ -32,3 +32,14 @@ pip install followed by dependency name
 
 ## Binary available
 https://github.com/vicparramain/master_file_validator/releases/download/1.0/Master_File_Validator_1.0.exe
+
+## Screenshots
+![Screenshot 1](./images/mastervalidator1.png)
+
+![Screenshot 2](./images/mastervalidator2.png)
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
+
+## Author
+Víctor Parra

@@ -36,7 +36,7 @@ https://github.com/vicparramain/master_file_validator/releases/download/1.0/Mast
 ## Screenshots
 ![Screenshot 1](./mastervalidator1.png)
 
-![Screenshot 2](./mastervalidator2.png)
+![Screenshot 2](./mastervalidatorcomplete.png)
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.

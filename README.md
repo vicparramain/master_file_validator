@@ -31,3 +31,4 @@ pip install followed by dependency name
    cd master_file_validator
 
 ## Binary available
+https://github.com/vicparramain/master_file_validator/releases/download/1.0/Master_File_Validator_1.0.exe

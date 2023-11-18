@@ -14,7 +14,7 @@ The Master File Validator is a PyQt6-based tool that allows users to validate fi
 - Export validation results to a text file.
 
 ## Requirements
-pip install follow by them:
+pip install followed by dependency name
 
 - Python 3.x
 - PyQt6
